@@ -5,14 +5,20 @@ body
 	text-align: justify;
 	font-family: Roboto;
 }
+.tete
+{
+	text-align: center;
+	font-size: 60px;
+	color:black;
+	font-weight: 900px;
+}
+
 
 h1
 {
-	
+	color: #cf0025;
     font-family: baskervville;
-    text-align: center;
-	font-size: 100px;
-	font-weight: bold;
+	
 }
 
 a
@@ -81,22 +87,6 @@ blockquote{
 figcaption
 {
 	font-style: italic;
-}
-.etape
-{
- 	color: red;
-	font-family: baskervville;
-	font-weight: bolder;
-
-}
-
-.title
-{
-	text-align: center;
-	font-size: 60px;
-	color:black;
-	font-weight: 900;
-
 }
 
 .customer_paragraph
