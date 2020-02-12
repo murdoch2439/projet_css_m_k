@@ -8,10 +8,11 @@ body
 
 h1
 {
-	color: black;
-    font-family: Baskerville;
+	
+    font-family: baskervville;
     text-align: center;
-    font-size: 100px;
+	font-size: 100px;
+	font-weight: bold;
 }
 
 a
@@ -80,6 +81,13 @@ blockquote{
 figcaption
 {
 	font-style: italic;
+}
+.etape
+{
+ 	color: red;
+	font-family: baskervville;
+	font-weight: bolder;
+
 }
 
 .title
